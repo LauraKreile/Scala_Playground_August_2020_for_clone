@@ -1,0 +1,525 @@
+My results of Latvian air bases with air benzene measurements.
+
+1. Airbase stations in Latvia:
+   Station Nr.: 1 and station name: Rucava
+   Station Nr.: 2 and station name: Zoseni
+   Station Nr.: 3 and station name: Daugavpils
+   Station Nr.: 4 and station name: Jurmala
+   Station Nr.: 5 and station name: Liepaja
+   Station Nr.: 6 and station name: Nigrande
+   Station Nr.: 7 and station name: Olaine
+   Station Nr.: 8 and station name: Rezekne
+   Station Nr.: 9 and station name: Riga Centrs
+   Station Nr.: 10 and station name: Riga Imanta
+   Station Nr.: 11 and station name: Riga Kengarags-2
+   Station Nr.: 12 and station name: Riga Milgravis
+   Station Nr.: 13 and station name: Riga Park
+   Station Nr.: 14 and station name: Riga-Brivibas street
+   Station Nr.: 15 and station name: Riga-Valdemara street
+   Station Nr.: 16 and station name: Valmiera
+   Station Nr.: 17 and station name: Ventspils
+   Station Nr.: 18 and station name: Ventspils Port
+
+2. There are 4 stations which have benzene air measurements:
+   1. station Id: LV0010R:Rucava
+   2. station Id: LV0016R:Zoseni
+   3. station Id: LV0020A:Riga-Valdemara street
+   4. station Id: LV0021A:Ventspils Port
+
+3. Stations with benzene (air) component measurements information.
+   Station Id: LV0010R:Rucava
+     Component_name: Benzene (air)
+     Component caption: C6H6
+     Component code: 20
+     Measurement unit: ug/m3
+     Measurement start date: 1-1-2006
+     Measurement latest date: 31-12-2006
+     Measurement european code: 100
+     Measurement technique principle: gas chromatography mass spectrometry (GC-MS)
+     Measurement equipment: Carbopack B
+     Calibration unit: month
+     Height sampling point: 0
+     Length sampling line: 0
+     Location sampling point: free air flow
+     Sampling time: 30
+     Calibration frequency: 1
+     Calibration method: standard solution
+
+   Station Id: LV0016R:Zoseni
+     Component_name: Benzene (air)
+     Component caption: C6H6
+     Component code: 20
+     Measurement unit: ug/m3
+     Measurement start date: 1-1-2006
+     Measurement latest date: 31-12-2006
+     Measurement european code: 100
+     Measurement technique principle: gas chromatography mass spectrometry (GC-MS)
+     Measurement equipment: Carbopack B
+     Calibration unit: month
+     Height sampling point: 1
+     Length sampling line: 2
+     Location sampling point: free air flow
+     Sampling time: 30
+     Calibration frequency: 1
+     Calibration method: standard solution
+
+   Station Id: LV0020A:Riga-Valdemara street
+     Component_name: Benzene (air)
+     Component caption: C6H6
+     Component code: 20
+     Measurement unit: ug/m3
+     Measurement start date: 3-1-2003
+     Measurement latest date: 31-12-2006
+     Measurement european code: 100
+     Measurement technique principle: Gas chromatography with photo ionization detector
+     Measurement equipment: Syntech Spectras GC-855
+     Calibration unit: day
+     Height sampling point: 4
+     Length sampling line: 3
+     Location sampling point: kerbside
+     Sampling time: 15
+     Calibration frequency: 1
+     Calibration method: flow rate check
+
+   Station Id: LV0021A:Ventspils Port
+     Component_name: Benzene (air)
+     Component caption: C6H6
+     Component code: 20
+     Measurement unit: ug/m3
+     Measurement start date: 1-1-2006
+     Measurement latest date: 31-12-2006
+     Measurement european code: 100
+     Measurement technique principle: gas chromatography mass spectrometry (GC-MS)
+     Measurement equipment: Carbopack B
+     Calibration unit: month
+     Height sampling point: 7
+     Length sampling line: 0
+     Location sampling point: free air flow
+     Sampling time: 30
+     Calibration frequency: 1
+     Calibration method: standard solution
+
+
+4. Station with year in which was done the statistic results.
+     Station name:Rucava and statistics Year: Some(2006)
+     Station name:Zoseni and statistics Year: Some(2006)
+     Station name:Riga-Valdemara street and statistics Year: Some(2004)
+     Station name:Riga-Valdemara street and statistics Year: Some(2005)
+     Station name:Riga-Valdemara street and statistics Year: Some(2006)
+     Station name:Ventspils Port and statistics Year: Some(2006)
+
+
+5. Statistic results of benzene air in each year.
+   Station Id: LV0010R:Rucava
+   Year: 2006
+   Statistics percentage valid: List(100.000)
+   Statistics number valid: List(12.0)
+   Statistic name: List(50 percentile, annual mean, 95 percentile, maximum, 98 percentile)
+   Statistic shortname: List(P50, Mean, P95, Max, P98)
+   Statistic value: List(0.700, 0.883, 1.700, 2.200, 2.200)
+
+   Station Id: LV0016R:Zoseni
+   Year: 2006
+   Statistics percentage valid: List(100.000)
+   Statistics number valid: List(12.0)
+   Statistic name: List(50 percentile, annual mean, 95 percentile, maximum, 98 percentile)
+   Statistic shortname: List(P50, Mean, P95, Max, P98)
+   Statistic value: List(0.600, 0.867, 1.700, 1.900, 1.900)
+
+   Station Id: LV0020A:Riga-Valdemara street
+   Year: 2004
+   Statistics percentage valid: List(66.120)
+   Statistics number valid: List(242.0)
+   Statistic name: List(50 percentile, annual mean, 95 percentile, 98 percentile, maximum)
+   Statistic shortname: List(P50, Mean, P95, P98, Max)
+   Statistic value: List(2.700, 3.208, 6.800, 7.900, 11.800)
+
+   Station Id: LV0020A:Riga-Valdemara street
+   Year: 2005
+   Statistics percentage valid: List(89.041)
+   Statistics number valid: List(325.0)
+   Statistic name: List(50 percentile, annual mean, 95 percentile, 98 percentile, maximum)
+   Statistic shortname: List(P50, Mean, P95, P98, Max)
+   Statistic value: List(2.500, 2.614, 5.000, 6.000, 7.500)
+
+   Station Id: LV0020A:Riga-Valdemara street
+   Year: 2006
+   Statistics percentage valid: List(63.014, 66.975)
+   Statistics number valid: List(230.0, 5867.0)
+   Statistic name: List(50 percentile, annual mean, 95 percentile, 98 percentile, maximum, 50 percentile, annual mean, 95 percentile, 98 percentile, maximum)
+   Statistic shortname: List(P50, Mean, P95, P98, Max, P50, Mean, P95, P98, Max)
+   Statistic value: List(0.404, 0.686, 1.954, 2.250, 2.946, 0.300, 0.672, 2.500, 3.400, 7.200)
+
+   Station Id: LV0021A:Ventspils Port
+   Year: 2006
+   Statistics percentage valid: List(83.333)
+   Statistics number valid: List(10.0)
+   Statistic name: List(50 percentile, annual mean, maximum, 95 percentile, 98 percentile)
+   Statistic shortname: List(P50, Mean, Max, P95, P98)
+   Statistic value: List(1.700, 1.930, 3.100, 3.100, 3.100)
+
+
+6. Stations with benzene (air) component measurement information (with text content):
+     Station ID and station name: LV0010R:Rucava
+     Measurement info of component Benzene (air): 
+                        Benzene (air)
+                        C6H6
+                        20
+                        yes
+                        ug/m3
+                        1-1-2006
+                        31-12-2006
+                        100
+                        no
+                        gas chromatography mass spectrometry (GC-MS)
+                        Carbopack B
+                        1
+                        month
+                        0
+                        0
+                        free air flow
+                        30
+                        natural day
+                        1
+                        month
+                        standard solution
+                        EU EoI
+                        EEA EuroAirnet
+                        EMEP
+                    
+     Station ID and station name: LV0016R:Zoseni
+     Measurement info of component Benzene (air): 
+                        Benzene (air)
+                        C6H6
+                        20
+                        yes
+                        ug/m3
+                        1-1-2006
+                        31-12-2006
+                        100
+                        no
+                        gas chromatography mass spectrometry (GC-MS)
+                        Carbopack B
+                        1
+                        month
+                        1
+                        2
+                        free air flow
+                        30
+                        natural day
+                        1
+                        month
+                        standard solution
+                        EU EoI
+                        EEA EuroAirnet
+                        EMEP
+                    
+     Station ID and station name: LV0020A:Riga-Valdemara street
+     Measurement info of component Benzene (air): 
+                        Benzene (air)
+                        C6H6
+                        20
+                        yes
+                        ug/m3
+                        3-1-2003
+                        31-12-2006
+                        100
+                        yes
+                        Gas chromatography with photo ionization detector
+                        Syntech Spectras GC-855
+                        30
+                        day
+                        4
+                        3
+                        kerbside
+                        15
+                        second
+                        1
+                        minute
+                        flow rate check
+                        EU EoI
+                        EEA EuroAirnet
+                    
+     Station ID and station name: LV0021A:Ventspils Port
+     Measurement info of component Benzene (air): 
+                        Benzene (air)
+                        C6H6
+                        20
+                        yes
+                        ug/m3
+                        1-1-2006
+                        31-12-2006
+                        100
+                        no
+                        gas chromatography mass spectrometry (GC-MS)
+                        Carbopack B
+                        1
+                        month
+                        7
+                        0
+                        free air flow
+                        30
+                        natural day
+                        1
+                        month
+                        standard solution
+                        EU EoI
+                        EEA EuroAirnet
+                    
+
+7. Station with statistic results of benzene air in each year.
+
+     Station name: Rucava
+     Statistics Year: <statistics Year="2006">
+                        <statistics_average_group value="month">
+                            <statistics_period>Calendar year</statistics_period>
+                            <statistic_set type="General">
+                                <statistics_percentage_valid>100.000</statistics_percentage_valid>
+                                <statistics_number_valid>12</statistics_number_valid>
+                                <statistics_calculated>Y</statistics_calculated>
+                                <statistic_result>
+                                    <statistic_name>50 percentile</statistic_name>
+                                    <statistic_shortname>P50</statistic_shortname>
+                                    <statistic_value>0.700</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>annual mean</statistic_name>
+                                    <statistic_shortname>Mean</statistic_shortname>
+                                    <statistic_value>0.883</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>95 percentile</statistic_name>
+                                    <statistic_shortname>P95</statistic_shortname>
+                                    <statistic_value>1.700</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>maximum</statistic_name>
+                                    <statistic_shortname>Max</statistic_shortname>
+                                    <statistic_value>2.200</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>98 percentile</statistic_name>
+                                    <statistic_shortname>P98</statistic_shortname>
+                                    <statistic_value>2.200</statistic_value>
+                                </statistic_result>
+                            </statistic_set>
+                        </statistics_average_group>
+                    </statistics>, statistic with Benzene
+
+     Station name: Zoseni
+     Statistics Year: <statistics Year="2006">
+                        <statistics_average_group value="month">
+                            <statistics_period>Calendar year</statistics_period>
+                            <statistic_set type="General">
+                                <statistics_percentage_valid>100.000</statistics_percentage_valid>
+                                <statistics_number_valid>12</statistics_number_valid>
+                                <statistics_calculated>Y</statistics_calculated>
+                                <statistic_result>
+                                    <statistic_name>50 percentile</statistic_name>
+                                    <statistic_shortname>P50</statistic_shortname>
+                                    <statistic_value>0.600</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>annual mean</statistic_name>
+                                    <statistic_shortname>Mean</statistic_shortname>
+                                    <statistic_value>0.867</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>95 percentile</statistic_name>
+                                    <statistic_shortname>P95</statistic_shortname>
+                                    <statistic_value>1.700</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>maximum</statistic_name>
+                                    <statistic_shortname>Max</statistic_shortname>
+                                    <statistic_value>1.900</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>98 percentile</statistic_name>
+                                    <statistic_shortname>P98</statistic_shortname>
+                                    <statistic_value>1.900</statistic_value>
+                                </statistic_result>
+                            </statistic_set>
+                        </statistics_average_group>
+                    </statistics>, statistic with Benzene
+
+     Station name: Riga-Valdemara street
+     Statistics Year: <statistics Year="2004">
+                        <statistics_average_group value="day">
+                            <statistics_period>Calendar year</statistics_period>
+                            <statistic_set type="General">
+                                <statistics_percentage_valid>66.120</statistics_percentage_valid>
+                                <statistics_number_valid>242</statistics_number_valid>
+                                <statistics_calculated>Y</statistics_calculated>
+                                <statistic_result>
+                                    <statistic_name>50 percentile</statistic_name>
+                                    <statistic_shortname>P50</statistic_shortname>
+                                    <statistic_value>2.700</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>annual mean</statistic_name>
+                                    <statistic_shortname>Mean</statistic_shortname>
+                                    <statistic_value>3.208</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>95 percentile</statistic_name>
+                                    <statistic_shortname>P95</statistic_shortname>
+                                    <statistic_value>6.800</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>98 percentile</statistic_name>
+                                    <statistic_shortname>P98</statistic_shortname>
+                                    <statistic_value>7.900</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>maximum</statistic_name>
+                                    <statistic_shortname>Max</statistic_shortname>
+                                    <statistic_value>11.800</statistic_value>
+                                </statistic_result>
+                            </statistic_set>
+                        </statistics_average_group>
+                    </statistics>, statistic with Benzene
+
+     Station name: Riga-Valdemara street
+     Statistics Year: <statistics Year="2005">
+                        <statistics_average_group value="day">
+                            <statistics_period>Calendar year</statistics_period>
+                            <statistic_set type="General">
+                                <statistics_percentage_valid>89.041</statistics_percentage_valid>
+                                <statistics_number_valid>325</statistics_number_valid>
+                                <statistics_calculated>Y</statistics_calculated>
+                                <statistic_result>
+                                    <statistic_name>50 percentile</statistic_name>
+                                    <statistic_shortname>P50</statistic_shortname>
+                                    <statistic_value>2.500</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>annual mean</statistic_name>
+                                    <statistic_shortname>Mean</statistic_shortname>
+                                    <statistic_value>2.614</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>95 percentile</statistic_name>
+                                    <statistic_shortname>P95</statistic_shortname>
+                                    <statistic_value>5.000</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>98 percentile</statistic_name>
+                                    <statistic_shortname>P98</statistic_shortname>
+                                    <statistic_value>6.000</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>maximum</statistic_name>
+                                    <statistic_shortname>Max</statistic_shortname>
+                                    <statistic_value>7.500</statistic_value>
+                                </statistic_result>
+                            </statistic_set>
+                        </statistics_average_group>
+                    </statistics>, statistic with Benzene
+
+     Station name: Riga-Valdemara street
+     Statistics Year: <statistics Year="2006">
+                        <statistics_average_group value="day">
+                            <statistics_period>Calendar year</statistics_period>
+                            <statistic_set type="General">
+                                <statistics_percentage_valid>63.014</statistics_percentage_valid>
+                                <statistics_number_valid>230</statistics_number_valid>
+                                <statistics_calculated>Y</statistics_calculated>
+                                <statistic_result>
+                                    <statistic_name>50 percentile</statistic_name>
+                                    <statistic_shortname>P50</statistic_shortname>
+                                    <statistic_value>0.404</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>annual mean</statistic_name>
+                                    <statistic_shortname>Mean</statistic_shortname>
+                                    <statistic_value>0.686</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>95 percentile</statistic_name>
+                                    <statistic_shortname>P95</statistic_shortname>
+                                    <statistic_value>1.954</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>98 percentile</statistic_name>
+                                    <statistic_shortname>P98</statistic_shortname>
+                                    <statistic_value>2.250</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>maximum</statistic_name>
+                                    <statistic_shortname>Max</statistic_shortname>
+                                    <statistic_value>2.946</statistic_value>
+                                </statistic_result>
+                            </statistic_set>
+                        </statistics_average_group>
+                        <statistics_average_group value="hour">
+                            <statistics_period>Calendar year</statistics_period>
+                            <statistic_set type="General">
+                                <statistics_percentage_valid>66.975</statistics_percentage_valid>
+                                <statistics_number_valid>5867</statistics_number_valid>
+                                <statistics_calculated>Y</statistics_calculated>
+                                <statistic_result>
+                                    <statistic_name>50 percentile</statistic_name>
+                                    <statistic_shortname>P50</statistic_shortname>
+                                    <statistic_value>0.300</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>annual mean</statistic_name>
+                                    <statistic_shortname>Mean</statistic_shortname>
+                                    <statistic_value>0.672</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>95 percentile</statistic_name>
+                                    <statistic_shortname>P95</statistic_shortname>
+                                    <statistic_value>2.500</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>98 percentile</statistic_name>
+                                    <statistic_shortname>P98</statistic_shortname>
+                                    <statistic_value>3.400</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>maximum</statistic_name>
+                                    <statistic_shortname>Max</statistic_shortname>
+                                    <statistic_value>7.200</statistic_value>
+                                </statistic_result>
+                            </statistic_set>
+                        </statistics_average_group>
+                    </statistics>, statistic with Benzene
+
+     Station name: Ventspils Port
+     Statistics Year: <statistics Year="2006">
+                        <statistics_average_group value="month">
+                            <statistics_period>Calendar year</statistics_period>
+                            <statistic_set type="General">
+                                <statistics_percentage_valid>83.333</statistics_percentage_valid>
+                                <statistics_number_valid>10</statistics_number_valid>
+                                <statistics_calculated>Y</statistics_calculated>
+                                <statistic_result>
+                                    <statistic_name>50 percentile</statistic_name>
+                                    <statistic_shortname>P50</statistic_shortname>
+                                    <statistic_value>1.700</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>annual mean</statistic_name>
+                                    <statistic_shortname>Mean</statistic_shortname>
+                                    <statistic_value>1.930</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>maximum</statistic_name>
+                                    <statistic_shortname>Max</statistic_shortname>
+                                    <statistic_value>3.100</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>95 percentile</statistic_name>
+                                    <statistic_shortname>P95</statistic_shortname>
+                                    <statistic_value>3.100</statistic_value>
+                                </statistic_result>
+                                <statistic_result>
+                                    <statistic_name>98 percentile</statistic_name>
+                                    <statistic_shortname>P98</statistic_shortname>
+                                    <statistic_value>3.100</statistic_value>
+                                </statistic_result>
+                            </statistic_set>
+                        </statistics_average_group>
+                    </statistics>, statistic with Benzene
