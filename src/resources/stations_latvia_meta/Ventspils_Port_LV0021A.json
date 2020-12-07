@@ -1,0 +1,826 @@
+{
+  "measurement_configuration":[{
+    "component":"Arsenic (aerosol) - atomic absorption spectrometry, electrometric atomization",
+    "measurement_info":{
+      "component_name":"Arsenic (aerosol)",
+      "component_caption":"As",
+      "component_code":"18",
+      "component_FWD":"yes",
+      "measurement_unit":"ng/m3",
+      "measurement_start_date":"1-1-2005",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"100",
+      "measurement_automatic":"no",
+      "measurement_technique_principle":"atomic absorption spectrometry, electrometric atomization",
+      "measurement_equipment":"SM200",
+      "integration_time_frequency":"1",
+      "calibration_unit":"week",
+      "height_sampling_point":"7",
+      "length_sampling_line":"0",
+      "sampling_time":"7",
+      "sampling_time_unit":"natural day",
+      "calibration_frequency":"1",
+      "integration_time_unit":"week",
+      "calibration_method":"standard solution",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":{
+        "value":"week",
+        "start_date":"1-1-2005",
+        "end_date":"31-12-2006",
+        "data_file":"LV0021A0001800100week.1-1-2005.31-12-2006"
+      }
+    },
+    "statistics":{
+      "Year":"2005",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"80.769",
+          "statistics_number_valid":"42",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"0.360"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"0.521"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"1.110"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"2.340"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"2.920"
+          }
+        }
+      }
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"55.769",
+          "statistics_number_valid":"29",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"0.450"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"0.614"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"2.110"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"2.110"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"2.790"
+          }
+        }
+      }
+    }
+  },{
+    "component":"Benzene (air) - gas chromatography mass spectrometry (GC-MS)",
+    "measurement_info":{
+      "component_name":"Benzene (air)",
+      "component_caption":"C6H6",
+      "component_code":"20",
+      "component_FWD":"yes",
+      "measurement_unit":"ug/m3",
+      "measurement_start_date":"1-1-2006",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"100",
+      "measurement_automatic":"no",
+      "measurement_technique_principle":"gas chromatography mass spectrometry (GC-MS)",
+      "measurement_equipment":"Carbopack B",
+      "integration_time_frequency":"1",
+      "calibration_unit":"month",
+      "height_sampling_point":"7",
+      "length_sampling_line":"0",
+      "location_sampling_point":"free air flow",
+      "sampling_time":"30",
+      "sampling_time_unit":"natural day",
+      "calibration_frequency":"1",
+      "integration_time_unit":"month",
+      "calibration_method":"standard solution",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":{
+        "value":"month",
+        "start_date":"1-1-2006",
+        "end_date":"31-12-2006",
+        "data_file":"LV0021A0002000100month.1-1-2006.31-12-2006"
+      }
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":{
+        "value":"month",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"83.333",
+          "statistics_number_valid":"10",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"1.700"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"1.930"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"3.100"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"3.100"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"3.100"
+          }
+        }
+      }
+    }
+  },{
+    "component":"Cadmium (aerosol) - atomic absorption spectrometry",
+    "measurement_info":{
+      "component_name":"Cadmium (aerosol)",
+      "component_caption":"Cd",
+      "component_code":"14",
+      "component_FWD":"yes",
+      "measurement_unit":"ng/m3",
+      "measurement_start_date":"1-1-2005",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"100",
+      "measurement_automatic":"no",
+      "measurement_technique_principle":"atomic absorption spectrometry",
+      "measurement_equipment":"SM200",
+      "integration_time_frequency":"1",
+      "calibration_unit":"week",
+      "height_sampling_point":"7",
+      "length_sampling_line":"0",
+      "location_sampling_point":"free air flow",
+      "sampling_time":"7",
+      "sampling_time_unit":"natural day",
+      "calibration_frequency":"1",
+      "integration_time_unit":"week",
+      "calibration_method":"standard solution",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":{
+        "value":"week",
+        "start_date":"1-1-2005",
+        "end_date":"31-12-2006",
+        "data_file":"LV0021A0001400100week.1-1-2005.31-12-2006"
+      }
+    },
+    "statistics":{
+      "Year":"2005",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"78.846",
+          "statistics_number_valid":"41",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"0.603"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"0.786"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"1.945"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"2.255"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"2.666"
+          }
+        }
+      }
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"53.846",
+          "statistics_number_valid":"28",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"0.370"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"0.475"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"0.890"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"0.890"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"2.710"
+          }
+        }
+      }
+    }
+  },{
+    "component":"Lead (aerosol) - atomic absorption spectrophotometry, electrometric atomizati",
+    "measurement_info":{
+      "component_name":"Lead (aerosol)",
+      "component_caption":"Pb",
+      "component_code":"12",
+      "component_FWD":"yes",
+      "measurement_unit":"ug/m3",
+      "measurement_start_date":"1-1-2005",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"100",
+      "measurement_automatic":"no",
+      "measurement_technique_principle":"atomic absorption spectrophotometry, electrometric atomizati",
+      "measurement_equipment":"SM200",
+      "integration_time_frequency":"1",
+      "calibration_unit":"week",
+      "height_sampling_point":"7",
+      "length_sampling_line":"0",
+      "location_sampling_point":"free air flow",
+      "sampling_time":"1",
+      "sampling_time_unit":"natural day",
+      "calibration_frequency":"1",
+      "integration_time_unit":"week",
+      "calibration_method":"standard solution",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":{
+        "value":"week",
+        "start_date":"5-1-2004",
+        "end_date":"31-12-2006",
+        "data_file":"LV0021A0001200100week.5-1-2004.31-12-2006"
+      }
+    },
+    "statistics":{
+      "Year":"2004",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"82.692",
+          "statistics_number_valid":"43",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"0.004"
+          },
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"0.004"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"0.009"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"0.010"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"0.012"
+          }
+        }
+      }
+    },
+    "statistics":{
+      "Year":"2005",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"78.846",
+          "statistics_number_valid":"41",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"0.004"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"0.006"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"0.016"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"0.022"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"0.022"
+          }
+        }
+      }
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"55.769",
+          "statistics_number_valid":"29",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"0.010"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"0.011"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"0.030"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"0.030"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"0.040"
+          }
+        }
+      }
+    }
+  },{
+    "component":"Nickel (aerosol) - METHOD UNDEFINED",
+    "measurement_info":{
+      "component_name":"Nickel (aerosol)",
+      "component_caption":"Ni",
+      "component_code":"15",
+      "component_FWD":"yes",
+      "measurement_unit":"ng/m3",
+      "measurement_start_date":"1-1-2005",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"100",
+      "measurement_automatic":"no",
+      "integration_time_frequency":"1",
+      "calibration_unit":"week",
+      "height_sampling_point":"7",
+      "length_sampling_line":"0",
+      "location_sampling_point":"free air flow",
+      "sampling_time":"7",
+      "sampling_time_unit":"natural day",
+      "calibration_frequency":"1",
+      "integration_time_unit":"week",
+      "calibration_method":"standard solution",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":{
+        "value":"week",
+        "start_date":"1-1-2005",
+        "end_date":"31-12-2006",
+        "data_file":"LV0021A0001500100week.1-1-2005.31-12-2006"
+      }
+    },
+    "statistics":{
+      "Year":"2005",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"80.769",
+          "statistics_number_valid":"42",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"2.210"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"2.221"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"4.530"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"4.860"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"5.680"
+          }
+        }
+      }
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":{
+        "value":"week",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"55.769",
+          "statistics_number_valid":"29",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"5.230"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"5.951"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"12.680"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"12.680"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"14.590"
+          }
+        }
+      }
+    }
+  },{
+    "component":"Particulate matter < 10 µm (aerosol) - Beta ray attenuation",
+    "measurement_info":{
+      "component_name":"Particulate matter < 10 µm (aerosol)",
+      "component_caption":"PM10",
+      "component_code":"5",
+      "component_FWD":"yes",
+      "measurement_unit":"ug/m3",
+      "measurement_start_date":"2-1-2002",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"100",
+      "measurement_automatic":"yes",
+      "measurement_technique_principle":"Beta ray attenuation",
+      "measurement_equipment":"SM200 (ADAM)",
+      "integration_time_frequency":"1",
+      "calibration_unit":"day",
+      "height_sampling_point":"7",
+      "length_sampling_line":"2",
+      "location_sampling_point":"free air flow",
+      "sampling_time":"24",
+      "sampling_time_unit":"hour",
+      "calibration_frequency":"1",
+      "integration_time_unit":"day",
+      "calibration_method":"flow rate check",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":{
+        "value":"day",
+        "start_date":"1-1-2003",
+        "end_date":"31-12-2006",
+        "data_file":"LV0021A0000500100day.1-1-2003.31-12-2006"
+      }
+    },
+    "statistics":{
+      "Year":"2003",
+      "statistics_average_group":{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"79.452",
+          "statistics_number_valid":"290",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"13.900"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"15.719"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"29.400"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"36.900"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"127.100"
+          },
+          "statistic_result":{
+            "statistic_name":"36th highest value",
+            "statistic_shortname":"Max36",
+            "statistic_value":"23.900"
+          },
+          "statistic_result":{
+            "statistic_name":"8th highest value",
+            "statistic_shortname":"Max8",
+            "statistic_value":"35.000"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"79.452",
+          "statistics_number_valid":"290",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 50 ug/m3",
+            "statistic_shortname":"Days(c > 50)",
+            "statistic_value":"3.000"
+          }
+        }
+      }
+    },
+    "statistics":{
+      "Year":"2004",
+      "statistics_average_group":{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"75.137",
+          "statistics_number_valid":"275",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"13.500"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"14.341"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"26.300"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"27.300"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"32.000"
+          },
+          "statistic_result":{
+            "statistic_name":"36th highest value",
+            "statistic_shortname":"Max36",
+            "statistic_value":"21.100"
+          },
+          "statistic_result":{
+            "statistic_name":"8th highest value",
+            "statistic_shortname":"Max8",
+            "statistic_value":"27.200"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"75.137",
+          "statistics_number_valid":"275",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 50 ug/m3",
+            "statistic_shortname":"Days(c > 50)",
+            "statistic_value":"0.000"
+          }
+        }
+      }
+    },
+    "statistics":{
+      "Year":"2005",
+      "statistics_average_group":{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"64.658",
+          "statistics_number_valid":"236",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"17.100"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"18.173"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"33.400"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"39.200"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"55.100"
+          },
+          "statistic_result":{
+            "statistic_name":"36th highest value",
+            "statistic_shortname":"Max36",
+            "statistic_value":"26.800"
+          },
+          "statistic_result":{
+            "statistic_name":"8th highest value",
+            "statistic_shortname":"Max8",
+            "statistic_value":"36.800"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"64.658",
+          "statistics_number_valid":"236",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 50 ug/m3",
+            "statistic_shortname":"Days(c > 50)",
+            "statistic_value":"3.000"
+          }
+        }
+      }
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"52.329",
+          "statistics_number_valid":"191",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"24.900"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"28.746"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"63.300"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"86.800"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"111.300"
+          },
+          "statistic_result":{
+            "statistic_name":"36th highest value",
+            "statistic_shortname":"Max36",
+            "statistic_value":"41.400"
+          },
+          "statistic_result":{
+            "statistic_name":"8th highest value",
+            "statistic_shortname":"Max8",
+            "statistic_value":"78.200"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"52.329",
+          "statistics_number_valid":"191",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 50 ug/m3",
+            "statistic_shortname":"Days(c > 50)",
+            "statistic_value":"19.000"
+          }
+        }
+      }
+    }
+  }]
+}

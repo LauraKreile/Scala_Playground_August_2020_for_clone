@@ -1,0 +1,2798 @@
+{
+  "measurement_configuration":[{
+    "component":"Mercury (air+aerosol) - atomic absorption spectrometry",
+    "measurement_info":{
+      "component_name":"Mercury (air+aerosol)",
+      "component_caption":"Hg",
+      "component_code":"4013",
+      "component_FWD":"no",
+      "measurement_unit":"ng/m3",
+      "measurement_start_date":"1-7-2000",
+      "measurement_end_date":"1-1-2003",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2001",
+      "measurement_european_code":"100",
+      "measurement_automatic":"yes",
+      "measurement_technique_principle":"atomic absorption spectrometry",
+      "measurement_equipment":"Atomic Absorption Mercury Vapor Analyzer GARDIS-3",
+      "integration_time_frequency":"1",
+      "calibration_unit":"month",
+      "height_sampling_point":"25",
+      "length_sampling_line":"0",
+      "location_sampling_point":"roof",
+      "sampling_time":"1",
+      "sampling_time_unit":"hour",
+      "calibration_frequency":"3",
+      "integration_time_unit":"hour",
+      "calibration_method":"flow rate check",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":[{
+        "value":"day",
+        "start_date":"1-1-2001",
+        "end_date":"31-12-2001",
+        "data_file":"LV0003A0401300100day.1-1-2001.31-12-2001"
+      },{
+        "value":"hour",
+        "start_date":"1-1-2001",
+        "end_date":"31-12-2001",
+        "data_file":"LV0003A0401300100hour.1-1-2001.31-12-2001"
+      }]
+    },
+    "statistics":{
+      "Year":"2001",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"86.575",
+          "statistics_number_valid":"316",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"9.642"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"14.655"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"42.975"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"61.521"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"86.238"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"87.511",
+          "statistics_number_valid":"7666",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"8.000"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"14.538"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"44.700"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"68.900"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"490.700"
+          }
+        }
+      }]
+    }
+  },{
+    "component":"Nitrogen dioxide (air) - DOAS",
+    "measurement_info":{
+      "component_name":"Nitrogen dioxide (air)",
+      "component_caption":"NO2",
+      "component_code":"8",
+      "component_FWD":"yes",
+      "measurement_unit":"ug/m3",
+      "measurement_start_date":"1-11-1997",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"500",
+      "measurement_automatic":"yes",
+      "measurement_technique_principle":"DOAS",
+      "measurement_equipment":"OPSIS AR500-E-467",
+      "integration_time_frequency":"10",
+      "calibration_unit":"year",
+      "height_sampling_point":"25",
+      "length_sampling_line":"530",
+      "location_sampling_point":"roof",
+      "sampling_time":"30",
+      "sampling_time_unit":"second",
+      "calibration_frequency":"1",
+      "integration_time_unit":"minute",
+      "calibration_method":"calibration cell",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":[{
+        "value":"day",
+        "start_date":"1-1-1999",
+        "end_date":"31-12-2006",
+        "data_file":"LV0003A0000800500day.1-1-1999.31-12-2006"
+      },{
+        "value":"hour",
+        "start_date":"1-1-1999",
+        "end_date":"31-12-2006",
+        "data_file":"LV0003A0000800500hour.1-1-1999.31-12-2006"
+      }]
+    },
+    "statistics":{
+      "Year":"1999",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"96.438",
+          "statistics_number_valid":"352",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"23.404"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"25.504"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"47.161"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"56.363"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"79.946"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"97.089",
+          "statistics_number_valid":"8505",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"20.200"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"25.434"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"62.700"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"77.600"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"133.000"
+          },
+          "statistic_result":{
+            "statistic_name":"19th highest value",
+            "statistic_shortname":"Max19",
+            "statistic_value":"105.700"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"97.089",
+          "statistics_number_valid":"8505",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 200 ug/m3",
+            "statistic_shortname":"Hours(c > 200)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2000",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"92.623",
+          "statistics_number_valid":"339",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"22.650"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"24.576"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"43.738"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"52.738"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"69.083"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"93.386",
+          "statistics_number_valid":"8203",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"19.800"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"24.557"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"60.400"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"77.700"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"134.500"
+          },
+          "statistic_result":{
+            "statistic_name":"19th highest value",
+            "statistic_shortname":"Max19",
+            "statistic_value":"104.000"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"93.386",
+          "statistics_number_valid":"8203",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 200 ug/m3",
+            "statistic_shortname":"Hours(c > 200)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2001",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"78.082",
+          "statistics_number_valid":"285",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"24.271"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"25.704"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"50.353"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"55.200"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"59.783"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"80.091",
+          "statistics_number_valid":"7016",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"21.100"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"25.755"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"62.600"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"75.600"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"130.100"
+          },
+          "statistic_result":{
+            "statistic_name":"19th highest value",
+            "statistic_shortname":"Max19",
+            "statistic_value":"100.100"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"80.091",
+          "statistics_number_valid":"7016",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 200 ug/m3",
+            "statistic_shortname":"Hours(c > 200)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2002",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"80.000",
+          "statistics_number_valid":"292",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"22.867"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"24.889"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"43.275"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"51.850"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"66.792"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"83.048",
+          "statistics_number_valid":"7275",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"20.500"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"24.919"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"60.700"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"76.600"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"136.200"
+          },
+          "statistic_result":{
+            "statistic_name":"19th highest value",
+            "statistic_shortname":"Max19",
+            "statistic_value":"106.300"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"83.048",
+          "statistics_number_valid":"7275",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 200 ug/m3",
+            "statistic_shortname":"Hours(c > 200)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2003",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"97.260",
+          "statistics_number_valid":"355",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"23.079"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"25.418"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"45.246"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"58.658"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"92.050"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"96.906",
+          "statistics_number_valid":"8489",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"20.200"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"25.457"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"62.200"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"79.500"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"163.200"
+          },
+          "statistic_result":{
+            "statistic_name":"19th highest value",
+            "statistic_shortname":"Max19",
+            "statistic_value":"114.300"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"96.906",
+          "statistics_number_valid":"8489",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 200 ug/m3",
+            "statistic_shortname":"Hours(c > 200)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2004",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"99.180",
+          "statistics_number_valid":"363",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"25.942"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"27.931"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"54.108"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"63.771"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"84.183"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"98.383",
+          "statistics_number_valid":"8642",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"22.400"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"27.934"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"67.800"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"83.400"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"132.500"
+          },
+          "statistic_result":{
+            "statistic_name":"19th highest value",
+            "statistic_shortname":"Max19",
+            "statistic_value":"111.300"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"98.383",
+          "statistics_number_valid":"8642",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 200 ug/m3",
+            "statistic_shortname":"Hours(c > 200)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2005",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"93.973",
+          "statistics_number_valid":"343",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"32.292"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"34.926"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"59.958"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"65.096"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"108.579"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"94.863",
+          "statistics_number_valid":"8310",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"29.900"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"34.927"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"71.000"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"88.200"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"191.900"
+          },
+          "statistic_result":{
+            "statistic_name":"19th highest value",
+            "statistic_shortname":"Max19",
+            "statistic_value":"133.500"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"94.863",
+          "statistics_number_valid":"8310",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 200 ug/m3",
+            "statistic_shortname":"Hours(c > 200)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"72.055",
+          "statistics_number_valid":"263",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"29.300"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"30.576"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"50.417"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"56.300"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"67.729"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"72.797",
+          "statistics_number_valid":"6377",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"26.200"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"30.621"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"65.400"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"81.800"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"158.200"
+          },
+          "statistic_result":{
+            "statistic_name":"19th highest value",
+            "statistic_shortname":"Max19",
+            "statistic_value":"106.300"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"72.797",
+          "statistics_number_valid":"6377",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 200 ug/m3",
+            "statistic_shortname":"Hours(c > 200)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    }
+  },{
+    "component":"Ozone (air) - DOAS",
+    "measurement_info":{
+      "component_name":"Ozone (air)",
+      "component_caption":"O3",
+      "component_code":"7",
+      "component_FWD":"yes",
+      "measurement_unit":"ug/m3",
+      "measurement_start_date":"1-11-1997",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"500",
+      "measurement_automatic":"yes",
+      "measurement_technique_principle":"DOAS",
+      "measurement_equipment":"OPSIS AR500-E-467",
+      "integration_time_frequency":"10",
+      "calibration_unit":"year",
+      "height_sampling_point":"25",
+      "length_sampling_line":"530",
+      "location_sampling_point":"roof",
+      "sampling_time":"30",
+      "sampling_time_unit":"second",
+      "calibration_frequency":"1",
+      "integration_time_unit":"minute",
+      "calibration_method":"uv lamp (ozone generator)",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":[{
+        "value":"day",
+        "start_date":"1-1-1999",
+        "end_date":"31-12-2006",
+        "data_file":"LV0003A0000700500day.1-1-1999.31-12-2006"
+      },{
+        "value":"dymax",
+        "start_date":"1-1-1999",
+        "end_date":"31-12-2006",
+        "data_file":"LV0003A0000700500dymax.1-1-1999.31-12-2006"
+      },{
+        "value":"hour",
+        "start_date":"1-1-1999",
+        "end_date":"31-12-2006",
+        "data_file":"LV0003A0000700500hour.1-1-1999.31-12-2006"
+      },{
+        "value":"hour8",
+        "start_date":"1-1-1999",
+        "end_date":"31-12-2006",
+        "data_file":"LV0003A0000700500hour8.1-1-1999.31-12-2006"
+      }]
+    },
+    "statistics":{
+      "Year":"1999",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"96.164",
+          "statistics_number_valid":"351",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"59.607"
+          }
+        }
+      },{
+        "value":"dymax",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"92.055",
+          "statistics_number_valid":"336",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"73.350"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"73.959"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"105.762"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"110.100"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"120.237"
+          },
+          "statistic_result":{
+            "statistic_name":"26th highest value",
+            "statistic_shortname":"Max26",
+            "statistic_value":"103.925"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"92.055",
+          "statistics_number_valid":"336",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 120 ug/m3",
+            "statistic_shortname":"Days(c > 120)",
+            "statistic_value":"1.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"96.187",
+          "statistics_number_valid":"8426",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"57.600"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"59.732"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"99.000"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"106.300"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"141.400"
+          }
+        },
+        "statistic_set":{
+          "type":"AOT",
+          "statistics_percentage_valid":"99.185",
+          "statistics_number_valid":"1095",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"AOT40 (c > 80 ug/m3,3 months,corrected)",
+            "statistic_shortname":"AOT40",
+            "statistic_value":"9576.000"
+          }
+        }
+      },{
+        "value":"hour8",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"95.502",
+          "statistics_number_valid":"8366",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"57.688"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"93.950"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"120.237"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2000",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"82.240",
+          "statistics_number_valid":"301",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"53.144"
+          }
+        }
+      },{
+        "value":"dymax",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"74.590",
+          "statistics_number_valid":"273",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"64.600"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"64.850"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"87.371"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"94.986"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"104.825"
+          },
+          "statistic_result":{
+            "statistic_name":"26th highest value",
+            "statistic_shortname":"Max26",
+            "statistic_value":"84.488"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"74.590",
+          "statistics_number_valid":"273",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 120 ug/m3",
+            "statistic_shortname":"Days(c > 120)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"84.369",
+          "statistics_number_valid":"7411",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"52.400"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"53.025"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"81.500"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"88.700"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"111.700"
+          }
+        },
+        "statistic_set":{
+          "type":"AOT",
+          "statistics_percentage_valid":"82.971",
+          "statistics_number_valid":"916",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"AOT40 (c > 80 ug/m3,3 months,corrected)",
+            "statistic_shortname":"AOT40",
+            "statistic_value":"1384.000"
+          }
+        }
+      },{
+        "value":"hour8",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"83.049",
+          "statistics_number_valid":"7295",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"51.867"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"78.750"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"104.825"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2001",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"66.849",
+          "statistics_number_valid":"244",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"55.014"
+          }
+        }
+      },{
+        "value":"dymax",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"58.356",
+          "statistics_number_valid":"213",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"64.075"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"66.928"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"97.225"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"100.725"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"107.287"
+          },
+          "statistic_result":{
+            "statistic_name":"26th highest value",
+            "statistic_shortname":"Max26",
+            "statistic_value":"88.988"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"58.356",
+          "statistics_number_valid":"213",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 120 ug/m3",
+            "statistic_shortname":"Days(c > 120)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"69.680",
+          "statistics_number_valid":"6104",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"54.000"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"55.329"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"90.600"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"97.600"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"118.600"
+          }
+        },
+        "statistic_set":{
+          "type":"AOT",
+          "statistics_percentage_valid":"80.525",
+          "statistics_number_valid":"889",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"AOT40 (c > 80 ug/m3,3 months,corrected)",
+            "statistic_shortname":"AOT40",
+            "statistic_value":"4061.000"
+          }
+        }
+      },{
+        "value":"hour8",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"68.071",
+          "statistics_number_valid":"5963",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"53.713"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"86.687"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"107.287"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2002",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"68.767",
+          "statistics_number_valid":"251",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"56.295"
+          }
+        }
+      },{
+        "value":"dymax",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"60.548",
+          "statistics_number_valid":"221",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"68.532"
+          },
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"69.975"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"93.612"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"100.288"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"118.100"
+          },
+          "statistic_result":{
+            "statistic_name":"26th highest value",
+            "statistic_shortname":"Max26",
+            "statistic_value":"89.450"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"60.548",
+          "statistics_number_valid":"221",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 120 ug/m3",
+            "statistic_shortname":"Days(c > 120)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"72.078",
+          "statistics_number_valid":"6314",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"56.700"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"57.413"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"89.600"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"96.300"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"123.100"
+          }
+        },
+        "statistic_set":{
+          "type":"AOT",
+          "statistics_percentage_valid":"95.109",
+          "statistics_number_valid":"1050",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"AOT40 (c > 80 ug/m3,3 months,corrected)",
+            "statistic_shortname":"AOT40",
+            "statistic_value":"2953.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2003",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"88.767",
+          "statistics_number_valid":"324",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"47.858"
+          }
+        }
+      },{
+        "value":"dymax",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"82.740",
+          "statistics_number_valid":"302",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"57.270"
+          },
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"58.050"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"79.938"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"84.817"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"93.975"
+          },
+          "statistic_result":{
+            "statistic_name":"26th highest value",
+            "statistic_shortname":"Max26",
+            "statistic_value":"76.812"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"82.740",
+          "statistics_number_valid":"302",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 120 ug/m3",
+            "statistic_shortname":"Days(c > 120)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"90.183",
+          "statistics_number_valid":"7900",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"47.400"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"47.833"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"73.800"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"79.500"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"99.200"
+          }
+        },
+        "statistic_set":{
+          "type":"AOT",
+          "statistics_percentage_valid":"92.754",
+          "statistics_number_valid":"1024",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"AOT40 (c > 80 ug/m3,3 months,corrected)",
+            "statistic_shortname":"AOT40",
+            "statistic_value":"109.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2004",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"69.945",
+          "statistics_number_valid":"256",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"49.181"
+          }
+        }
+      },{
+        "value":"dymax",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"66.120",
+          "statistics_number_valid":"242",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"56.637"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"58.113"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"77.675"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"80.750"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"86.475"
+          },
+          "statistic_result":{
+            "statistic_name":"26th highest value",
+            "statistic_shortname":"Max26",
+            "statistic_value":"72.175"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"66.120",
+          "statistics_number_valid":"242",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 120 ug/m3",
+            "statistic_shortname":"Days(c > 120)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"69.524",
+          "statistics_number_valid":"6107",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"49.200"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"49.396"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"72.600"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"78.300"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"89.200"
+          }
+        },
+        "statistic_set":{
+          "type":"AOT",
+          "statistics_percentage_valid":"100.000",
+          "statistics_number_valid":"1104",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"AOT40 (c > 80 ug/m3,3 months,corrected)",
+            "statistic_shortname":"AOT40",
+            "statistic_value":"104.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2005",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"84.932",
+          "statistics_number_valid":"310",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"30.766"
+          }
+        }
+      },{
+        "value":"dymax",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"81.096",
+          "statistics_number_valid":"296",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"42.594"
+          },
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"42.850"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"67.875"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"70.238"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"83.062"
+          },
+          "statistic_result":{
+            "statistic_name":"26th highest value",
+            "statistic_shortname":"Max26",
+            "statistic_value":"64.512"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"81.096",
+          "statistics_number_valid":"296",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 120 ug/m3",
+            "statistic_shortname":"Days(c > 120)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"85.297",
+          "statistics_number_valid":"7472",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"30.400"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"30.980"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"63.000"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"68.600"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"89.500"
+          }
+        },
+        "statistic_set":{
+          "type":"AOT",
+          "statistics_percentage_valid":"99.004",
+          "statistics_number_valid":"1093",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"AOT40 (c > 80 ug/m3,3 months,corrected)",
+            "statistic_shortname":"AOT40",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"63.562",
+          "statistics_number_valid":"232",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"41.576"
+          }
+        }
+      },{
+        "value":"dymax",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"58.630",
+          "statistics_number_valid":"214",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"52.188"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"55.175"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"85.363"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"99.350"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"117.600"
+          },
+          "statistic_result":{
+            "statistic_name":"26th highest value",
+            "statistic_shortname":"Max26",
+            "statistic_value":"73.162"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"58.630",
+          "statistics_number_valid":"214",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 120 ug/m3",
+            "statistic_shortname":"Days(c > 120)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"65.308",
+          "statistics_number_valid":"5721",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"41.600"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"41.909"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"76.100"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"91.900"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"125.200"
+          }
+        },
+        "statistic_set":{
+          "type":"AOT",
+          "statistics_percentage_valid":"88.496",
+          "statistics_number_valid":"977",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"AOT40 (c > 80 ug/m3,3 months,corrected)",
+            "statistic_shortname":"AOT40",
+            "statistic_value":"1541.000"
+          }
+        }
+      }]
+    }
+  },{
+    "component":"Sulphur dioxide (air) - DOAS",
+    "measurement_info":{
+      "component_name":"Sulphur dioxide (air)",
+      "component_caption":"SO2",
+      "component_code":"1",
+      "component_FWD":"yes",
+      "measurement_unit":"ug/m3",
+      "measurement_start_date":"1-11-1997",
+      "measurement_latest_date_available_in_AIRBASE":"31-12-2006",
+      "measurement_european_code":"500",
+      "measurement_automatic":"yes",
+      "measurement_technique_principle":"DOAS",
+      "measurement_equipment":"OPSIS AR500-E-467",
+      "integration_time_frequency":"10",
+      "calibration_unit":"year",
+      "height_sampling_point":"25",
+      "length_sampling_line":"530",
+      "location_sampling_point":"roof",
+      "sampling_time":"30",
+      "sampling_time_unit":"second",
+      "calibration_frequency":"1",
+      "integration_time_unit":"minute",
+      "calibration_method":"calibration cell",
+      "body_or_programme":"EU EoI",
+      "body_or_programme":"EEA EuroAirnet"
+    },
+    "data_set":{
+      "data_type":[{
+        "value":"day",
+        "start_date":"1-1-1999",
+        "end_date":"31-12-2006",
+        "data_file":"LV0003A0000100500day.1-1-1999.31-12-2006"
+      },{
+        "value":"hour",
+        "start_date":"1-1-1999",
+        "end_date":"31-12-2006",
+        "data_file":"LV0003A0000100500hour.1-1-1999.31-12-2006"
+      }]
+    },
+    "statistics":{
+      "Year":"1999",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"96.712",
+          "statistics_number_valid":"353",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"6.679"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"8.338"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"18.604"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"23.688"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"31.629"
+          },
+          "statistic_result":{
+            "statistic_name":"4th highest value",
+            "statistic_shortname":"Max4",
+            "statistic_value":"26.775"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"96.712",
+          "statistics_number_valid":"353",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 125 ug/m3",
+            "statistic_shortname":"Days(c > 125)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"96.941",
+          "statistics_number_valid":"8492",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"5.900"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"8.279"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"21.700"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"30.200"
+          },
+          "statistic_result":{
+            "statistic_name":"99.9 percentile",
+            "statistic_shortname":"P99_9",
+            "statistic_value":"60.400"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"142.000"
+          },
+          "statistic_result":{
+            "statistic_name":"25th highest value",
+            "statistic_shortname":"Max25",
+            "statistic_value":"47.200"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"96.941",
+          "statistics_number_valid":"8492",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 350 ug/m3",
+            "statistic_shortname":"Hours(c > 350)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2000",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"86.885",
+          "statistics_number_valid":"318",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"5.092"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"6.117"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"11.946"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"19.400"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"29.063"
+          },
+          "statistic_result":{
+            "statistic_name":"4th highest value",
+            "statistic_shortname":"Max4",
+            "statistic_value":"22.800"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"86.885",
+          "statistics_number_valid":"318",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 125 ug/m3",
+            "statistic_shortname":"Days(c > 125)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"87.546",
+          "statistics_number_valid":"7690",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"4.600"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"6.114"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"15.800"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"22.500"
+          },
+          "statistic_result":{
+            "statistic_name":"99.9 percentile",
+            "statistic_shortname":"P99_9",
+            "statistic_value":"51.400"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"100.600"
+          },
+          "statistic_result":{
+            "statistic_name":"25th highest value",
+            "statistic_shortname":"Max25",
+            "statistic_value":"32.500"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"87.546",
+          "statistics_number_valid":"7690",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 350 ug/m3",
+            "statistic_shortname":"Hours(c > 350)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2001",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"69.863",
+          "statistics_number_valid":"255",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"3.418"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"5.022"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"13.718"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"18.096"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"34.696"
+          },
+          "statistic_result":{
+            "statistic_name":"4th highest value",
+            "statistic_shortname":"Max4",
+            "statistic_value":"20.183"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"69.863",
+          "statistics_number_valid":"255",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 125 ug/m3",
+            "statistic_shortname":"Days(c > 125)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"72.568",
+          "statistics_number_valid":"6357",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"3.200"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"5.113"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"17.400"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"27.600"
+          },
+          "statistic_result":{
+            "statistic_name":"99.9 percentile",
+            "statistic_shortname":"P99_9",
+            "statistic_value":"55.200"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"93.700"
+          },
+          "statistic_result":{
+            "statistic_name":"25th highest value",
+            "statistic_shortname":"Max25",
+            "statistic_value":"42.200"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"72.568",
+          "statistics_number_valid":"6357",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 350 ug/m3",
+            "statistic_shortname":"Hours(c > 350)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2002",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"69.863",
+          "statistics_number_valid":"255",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"2.789"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"3.385"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"7.079"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"12.208"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"15.838"
+          },
+          "statistic_result":{
+            "statistic_name":"4th highest value",
+            "statistic_shortname":"Max4",
+            "statistic_value":"14.117"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"69.863",
+          "statistics_number_valid":"255",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 125 ug/m3",
+            "statistic_shortname":"Days(c > 125)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"68.961",
+          "statistics_number_valid":"6041",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"2.700"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"3.551"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"9.700"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"16.700"
+          },
+          "statistic_result":{
+            "statistic_name":"99.9 percentile",
+            "statistic_shortname":"P99_9",
+            "statistic_value":"44.100"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"60.600"
+          },
+          "statistic_result":{
+            "statistic_name":"25th highest value",
+            "statistic_shortname":"Max25",
+            "statistic_value":"27.200"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"68.961",
+          "statistics_number_valid":"6041",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 350 ug/m3",
+            "statistic_shortname":"Hours(c > 350)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2003",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"91.781",
+          "statistics_number_valid":"335",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"3.667"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"4.746"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"10.587"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"14.875"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"40.308"
+          },
+          "statistic_result":{
+            "statistic_name":"4th highest value",
+            "statistic_shortname":"Max4",
+            "statistic_value":"21.321"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"91.781",
+          "statistics_number_valid":"335",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 125 ug/m3",
+            "statistic_shortname":"Days(c > 125)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"92.021",
+          "statistics_number_valid":"8061",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"3.100"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"4.736"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"12.600"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"18.900"
+          },
+          "statistic_result":{
+            "statistic_name":"99.9 percentile",
+            "statistic_shortname":"P99_9",
+            "statistic_value":"49.900"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"145.600"
+          },
+          "statistic_result":{
+            "statistic_name":"25th highest value",
+            "statistic_shortname":"Max25",
+            "statistic_value":"37.700"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"92.021",
+          "statistics_number_valid":"8061",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 350 ug/m3",
+            "statistic_shortname":"Hours(c > 350)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2004",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"97.814",
+          "statistics_number_valid":"358",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"2.964"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"4.034"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"10.233"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"14.263"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"20.892"
+          },
+          "statistic_result":{
+            "statistic_name":"4th highest value",
+            "statistic_shortname":"Max4",
+            "statistic_value":"18.775"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"97.814",
+          "statistics_number_valid":"358",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 125 ug/m3",
+            "statistic_shortname":"Days(c > 125)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"96.630",
+          "statistics_number_valid":"8488",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"2.800"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"4.025"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"10.800"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"17.500"
+          },
+          "statistic_result":{
+            "statistic_name":"99.9 percentile",
+            "statistic_shortname":"P99_9",
+            "statistic_value":"33.500"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"43.200"
+          },
+          "statistic_result":{
+            "statistic_name":"25th highest value",
+            "statistic_shortname":"Max25",
+            "statistic_value":"28.600"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"96.630",
+          "statistics_number_valid":"8488",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 350 ug/m3",
+            "statistic_shortname":"Hours(c > 350)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2005",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"90.959",
+          "statistics_number_valid":"332",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"5.929"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"6.349"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"10.046"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"11.688"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"14.743"
+          },
+          "statistic_result":{
+            "statistic_name":"4th highest value",
+            "statistic_shortname":"Max4",
+            "statistic_value":"12.712"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"90.959",
+          "statistics_number_valid":"332",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 125 ug/m3",
+            "statistic_shortname":"Days(c > 125)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"92.717",
+          "statistics_number_valid":"8122",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"5.700"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"6.341"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"11.100"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"14.000"
+          },
+          "statistic_result":{
+            "statistic_name":"99.9 percentile",
+            "statistic_shortname":"P99_9",
+            "statistic_value":"26.200"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"37.500"
+          },
+          "statistic_result":{
+            "statistic_name":"25th highest value",
+            "statistic_shortname":"Max25",
+            "statistic_value":"20.700"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"92.717",
+          "statistics_number_valid":"8122",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 350 ug/m3",
+            "statistic_shortname":"Hours(c > 350)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    },
+    "statistics":{
+      "Year":"2006",
+      "statistics_average_group":[{
+        "value":"day",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"70.137",
+          "statistics_number_valid":"256",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"5.300"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"6.457"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"12.233"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"21.396"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"37.086"
+          },
+          "statistic_result":{
+            "statistic_name":"4th highest value",
+            "statistic_shortname":"Max4",
+            "statistic_value":"22.621"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"70.137",
+          "statistics_number_valid":"256",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"days with c > 125 ug/m3",
+            "statistic_shortname":"Days(c > 125)",
+            "statistic_value":"0.000"
+          }
+        }
+      },{
+        "value":"hour",
+        "statistics_period":"Calendar year",
+        "statistic_set":{
+          "type":"General",
+          "statistics_percentage_valid":"70.274",
+          "statistics_number_valid":"6156",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"50 percentile",
+            "statistic_shortname":"P50",
+            "statistic_value":"5.100"
+          },
+          "statistic_result":{
+            "statistic_name":"annual mean",
+            "statistic_shortname":"Mean",
+            "statistic_value":"6.437"
+          },
+          "statistic_result":{
+            "statistic_name":"95 percentile",
+            "statistic_shortname":"P95",
+            "statistic_value":"13.300"
+          },
+          "statistic_result":{
+            "statistic_name":"98 percentile",
+            "statistic_shortname":"P98",
+            "statistic_value":"20.700"
+          },
+          "statistic_result":{
+            "statistic_name":"99.9 percentile",
+            "statistic_shortname":"P99_9",
+            "statistic_value":"47.800"
+          },
+          "statistic_result":{
+            "statistic_name":"maximum",
+            "statistic_shortname":"Max",
+            "statistic_value":"49.600"
+          },
+          "statistic_result":{
+            "statistic_name":"25th highest value",
+            "statistic_shortname":"Max25",
+            "statistic_value":"36.900"
+          }
+        },
+        "statistic_set":{
+          "type":"Exceedances",
+          "statistics_percentage_valid":"70.274",
+          "statistics_number_valid":"6156",
+          "statistics_calculated":"Y",
+          "statistic_result":{
+            "statistic_name":"hours with c > 350 ug/m3",
+            "statistic_shortname":"Hours(c > 350)",
+            "statistic_value":"0.000"
+          }
+        }
+      }]
+    }
+  }]
+}
